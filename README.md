@@ -12,27 +12,37 @@ Train the Facial Recognition Model
 Upload the Arduino Code
 
 -Launched the Arduino IDE and uploaded the provided code file.
+
 -This code instructs the Arduino to turn the LED on whenever it receives input indicating that a face has been detected.
 
 Configure the Python–Arduino Connection
 
 -Opened Visual Studio Code and ran the included Python script.
+
 -The Python script loads the Keras model and the labels, then sends the proper signal to the Arduino when the webcam identifies a face.
 
 System Testing
 
 -Closed the Arduino IDE to free the COM port.
+
 -Started the Python script in Visual Studio Code.
+
 -The setup is functioning properly if the camera detects a face and the LED switches on.
 
 Tools and Components Used:
 
 -Python 3
+
 -TensorFlow
+
 -Keras
+
 -OpenCV
+
 -PySerial
+
 -Arduino IDE
+
 -Arduino Mega 2560
 
 Video Demonstration:
