@@ -45,4 +45,5 @@ Tools and Components Used:
 
 -Arduino Mega 2560
 
-Video Demonstration:
+Video Demonstration: https://youtube.com/shorts/Esk65adn9I8?feature=share
+
